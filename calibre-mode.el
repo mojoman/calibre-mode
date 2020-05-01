@@ -1,9 +1,9 @@
-;;; calibre-mode --- Provide simple interface to calibre database.
+;;; calibre-mode.el --- Provide simple interface to calibre database.
 
 ;; Author: whacked@github
 ;; Keywords: calibre
 ;; Version: 0.1
-;; Package-Requires: (org cl sql seq)
+;; Package-Requires: (org)
 
 ;; This file is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
